@@ -1,0 +1,38 @@
+
+body{
+    overflow-x:hidden ;
+}
+.row{
+    --bs-gutter-x: 1rem;
+}
+.nav-item{
+ 
+    font: 14px/1.1 Helvetica, Arial, sans-serif;
+    font-weight: 400;
+    padding-left: 15px;
+    position: relative;
+    left: 10px;
+    top: 5px;
+}
+.card1{
+    position: relative;
+    top: 0.5em;
+    margin-top: 0.5rem;
+    text-align: center;
+    color: white;
+}
+.title1{
+     position: relative;
+     height: 20vh;
+     top: 3rem;
+     font-family:  Helvetica, Arial, sans-serif;
+}
+ .card-text1{
+    font-size: 12px;
+    font: 14px/1.1 Helvetica, Arial, sans-serif;
+    font-weight: 600;
+ }
+ .sliderhov:hover{
+   transform:scale(1.01);
+ }
+ 
